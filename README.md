@@ -15,6 +15,10 @@ A Python project that calculates and displays the digits of the mathematical con
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [How to Contribute](#how-to-contribute)
+  - [Code Style](#code-style)
+  - [Testing](#testing)
 - [License](#license)
 - [Contact](#contact)
 
