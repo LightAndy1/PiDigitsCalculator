@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/LightAndy1/PiDigitsCalculator)
 ![GitHub issues](https://img.shields.io/github/issues/LightAndy1/PiDigitsCalculator)
 
-A Python project that calculates and displays the digits of the mathematical constant π (pi) with precision. Customize the number of decimal places and interactively view the digits. Includes caching, pause, and stop features for a seamless user experience.
+A Python project that calculates and displays the digits of the mathematical constant π (pi) with precision. Customize the number of decimal places and interactively view the digits. Includes pause, and stop features for a seamless user experience.
 
 ## Table of Contents
 
@@ -20,32 +20,32 @@ A Python project that calculates and displays the digits of the mathematical con
 
 ## About
 
-Briefly describe your project here. Explain what it does, its main features, and why it's useful or interesting.
+The PiDigitsCalculator is a Python project designed to calculate and display the digits of the mathematical constant π (pi) with a high degree of precision. It offers users the flexibility to customize the number of decimal places they want to calculate, and it provides an interactive interface for viewing the calculated digits. Whether you're interested in exploring the beauty of pi or need a high-precision pi calculator for your projects, PiDigitsCalculator has you covered.
 
 ## Getting Started
 
-Provide instructions on how to get your project up and running.
+To get started with the PiDigitsCalculator, follow these steps:
 
 ### Prerequisites
 
-List any prerequisites that users need to have installed before they can use your project. If there are none, you can omit this section.
+Before using the PiDigitsCalculator, make sure you have the following prerequisites installed on your system:
+
+- Python: You need Python installed on your computer. You can download and install Python from the official Python website at [python.org](https://www.python.org/downloads/).
 
 ### Installation
 
-A step-by-step guide on how to install your project.
+1. Clone the PiDigitsCalculator repository to your local machine using Git. Open your terminal or command prompt and run the following command:
 
-```bash
-git clone https://github.com/LightAndy1/PiDigitsCalculator
-cd PiDigitsCalculator
-```
+````bash
+git clone https://github.com/LightAndy1/PiDigitsCalculator```
 
 ## Usage
 
 Explain how users can use your project. Include code examples, if applicable.
 
 ```py
-python pi_calculator.py
-```
+python calculate_pi.py
+````
 
 ## Features
 
