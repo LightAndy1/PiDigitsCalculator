@@ -30,8 +30,11 @@ try:
         print(f"{pi_str[i]}", end='')
 
     print()
+
 except ValueError as error:
     print(f"Error: Invalid input. Please enter a valid integer.")
+except ModuleNotFoundError as error:
+    print(f"Error: {error}. Please make sure you have the required module installed.")
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
 
