@@ -34,3 +34,5 @@ except ValueError as error:
     print(f"Error: Invalid input. Please enter a valid integer.")
 except Exception as e:
     print(f"An unexpected error occurred: {e}")
+
+input("Press Enter to exit...")
