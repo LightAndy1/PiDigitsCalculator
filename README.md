@@ -1,8 +1,8 @@
 # PiDigitsCalculator
 
-![GitHub](https://img.shields.io/github/license/LightAndy1/PiDigitsCalculator?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/LightAndy1/PiDigitsCalculator?style=flat)
-![GitHub issues](https://img.shields.io/github/issues/LightAndy1/PiDigitsCalculator?style=flat)
+![GitHub](https://img.shields.io/github/license/LightAndy1/PiDigitsCalculator)
+![GitHub repo size](https://img.shields.io/github/repo-size/LightAndy1/PiDigitsCalculator)
+![GitHub issues](https://img.shields.io/github/issues/LightAndy1/PiDigitsCalculator)
 
 A Python project that calculates and displays the digits of the mathematical constant π (pi) with precision. Customize the number of decimal places and interactively view the digits. Includes pause, and stop features for a seamless user experience.
 
